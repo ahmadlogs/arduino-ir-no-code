@@ -1,3 +1,20 @@
+/*************************************************************************************************
+ *  Created By: Tauseef Ahmad
+ *  Created On: 20 May, 2023
+ *  
+ *  YouTube Video: https://youtu.be/m-CE0_o_epc
+ *  My Channel: https://www.youtube.com/channel/UCOXYfOHgu-C-UfGyDcu5sYw/
+ *  
+ *  *********************************************************************************************
+ *  Preferences--> Aditional boards Manager URLs : 
+ *  For ESP32 (2.0.3):
+ *  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+ *  *********************************************************************************************
+ *  Install the following libraries :
+ *  2. IRremote https://github.com/Arduino-IRremote/Arduino-IRremote version 4.1.2
+ ***********************************************************************************************/
+
+
 #include <EEPROM.h>
 #include <IRremote.h>
 
